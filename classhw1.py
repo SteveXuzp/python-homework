@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[51]:
-
-
 from tkinter import *
 from utilshw1 import *
 class Comment:
@@ -53,14 +50,13 @@ class Comment:
 
         root.mainloop()
         
-#p=Comment()
-#p.visual_interface()
+
 
             
             
 
 
-# In[ ]:
+
 
 
 
