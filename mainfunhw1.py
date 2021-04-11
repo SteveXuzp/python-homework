@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[4]:
-
 
 from classhw1 import Comment
 ustc = Comment()

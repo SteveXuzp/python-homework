@@ -17,7 +17,7 @@ contents = re.findall('<p class="text-muted">(.*?)<a', str(comments))
 length = len(time)
 name=[]
 course=[]
-for i in range(0,length):
+for i in range(0,length): #pick the data we need
     name.append(a[3*i])
     course.append(a[3*i+1])
 
